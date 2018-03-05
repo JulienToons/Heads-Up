@@ -1,9 +1,12 @@
-img {
-	position: center;
+img.one {
+	max-height: 20%;
+	max-width: 20%;
+	position: absolute;
+	top: 50px;
 }
 p {
-	position: middle;
+	position: relative;
 	size: 50px;
 	font-family: Arial;
 	color: Blue;
-}
+}                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
